@@ -3,3 +3,5 @@ This repository is created for storing the codes generated in the class.
 
 Hey everyone, I'm Aditya Nayak. I'm 23 years old.
 I have created this repository so that I can keep record of my codes.
+
+My hobbies are to listen to music, read and watch movies.
